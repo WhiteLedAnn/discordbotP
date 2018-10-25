@@ -1,2 +1,2 @@
-# discordbotP
-bot for discord https://discord.gg/BHEpbGx
+# discordbotPl
+bot for discord chat
